@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_50">#1a3d33</color>
+    <color name="green_100">#234d40</color>
+    <color name="green_200">#2d5d4d</color>
+    <color name="green_300">#366d5a</color>
+    <color name="green_400">#40ab87</color>
+    <color name="green_500">#51cea2</color>
+    <color name="green_600">#66d9b3</color>
+    <color name="green_700">#7fe4c4</color>
+    <color name="green_800">#98ebd5</color>
+    <color name="green_900">#b1f2e6</color>
+
+    <color name="green_accent">#69f0ae</color>
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#282828</color>
+    <color name="white_70">#B3474747</color>
+
+    <color name="gray_100">#2A2A2A</color>
+    <color name="gray_200">#333333</color>
+    <color name="gray_300">#424242</color>
+    <color name="gray_400">#555555</color>
+    <color name="gray_500">#757575</color>
+    <color name="gray_600">#9E9E9E</color>
+    <color name="gray_700">#BDBDBD</color>
+    <color name="gray_800">#EEEEEE</color>
+    <color name="gray_900">#F5F5F5</color>
+
+    <color name="nav_item_color">@color/green_400</color>
+    <color name="nav_item_selected">@color/green_600</color>
+
+    <color name="status_online">@color/green_500</color>
+    <color name="status_offline">@color/gray_500</color>
+    <color name="status_blocked">#EF5350</color>
+
+    <color name="background_primary">#262626</color>
+    <color name="background_secondary">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+</resources>

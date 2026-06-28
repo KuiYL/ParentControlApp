@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bottom_tabs"
+    app:startDestination="@id/devicesFragment">
+
+    <fragment
+        android:id="@+id/devicesFragment"
+        android:name="com.parentcontrolapp.agent.ui.main.DevicesFragment"
+        android:label="Devices"
+        tools:layout="@layout/fragment_devices">
+
+        <action
+            android:id="@+id/action_devices_to_details"
+            app:destination="@id/deviceDetailsFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/deviceDetailsFragment"
+        android:name="com.parentcontrolapp.agent.ui.main.DeviceDetailsFragment"
+        android:label="DeviceDetails"
+        tools:layout="@layout/fragment_device_details">
+
+        <argument android:name="device_id" app:argType="string" app:nullable="false" />
+        <argument android:name="childName" app:argType="string" app:nullable="true" />
+        <argument android:name="deviceName" app:argType="string" app:nullable="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addDeviceFragment"
+        android:name="com.parentcontrolapp.agent.ui.main.AddDeviceFragment"
+        android:label="AddDevice"
+        tools:layout="@layout/fragment_add_device" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.parentcontrolapp.agent.ui.main.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.parentcontrolapp.agent.ui.main.ProfileFragment"
+        android:label="Profile">
+    </fragment>
+</navigation>

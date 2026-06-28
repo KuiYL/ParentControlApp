@@ -3,7 +3,9 @@
   <h1>ParentControl</h1>
 </div>
 
-[🇬🇧 English](README.md) | [🇷🇺 Русский](README_RU.md)
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> | <a href="README_RU.md">🇷🇺 Русский</a>
+</p>
 
 <p align="center">
   <strong>Отслеживайте активность ребёнка, устанавливайте лимиты и обеспечивайте безопасность</strong>

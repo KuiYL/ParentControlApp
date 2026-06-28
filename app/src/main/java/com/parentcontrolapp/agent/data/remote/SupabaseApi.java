@@ -23,8 +23,8 @@ public class SupabaseApi {
 
     private static final String TAG = "SupabaseApi";
 
-    private static final String BASE_URL = "https://fxxnxjqywemrmmiztxoq.supabase.co";
-    private static final String ANON_KEY = "sb_publishable_wehvh_IhKyD7GuOdjGb2NQ_kUt8UHI7";
+    private static final String BASE_URL = "";
+    private static final String ANON_KEY = "";
 
     private static final boolean DEBUG = true;
 

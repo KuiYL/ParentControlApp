@@ -192,6 +192,6 @@ com.parentcontrolapp.agent/
 
 ## 👩‍💻 Автор
 
-Создано с ❤️ для заботливых родителей.
-
-Если у вас есть вопросы или предложения — создайте [Issue](https://github.com/KuiYL/ParentControlApp/issues) или напишите мне!
+Часть экосистемы **ParentControl**:
+- 📱 **Android-приложение** — панель управления для родителей
+- 💻 [ПК агент] (https://github.com/KuiYL/ParentalControlAgent) — монитор устройства ребёнка

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_50">#f0fffb</color>
+    <color name="green_100">#d5fff0</color>
+    <color name="green_200">#baf8e5</color>
+    <color name="green_300">#9febd9</color>
+
+    <color name="green_400">#74d9c0</color>
+    <color name="green_500">#51cea2</color>
+    <color name="green_600">#40ab87</color>
+
+    <color name="green_700">#358a6f</color>
+    <color name="green_800">#286854</color>
+    <color name="green_900">#1a4538</color>
+
+    <color name="green_accent">#69f0ae</color>
+    <color name="green_accent_variant">#a7ffeb</color>
+
+    <color name="green_transparent_10">#1A51CEA2</color>
+    <color name="green_transparent_20">#3351CEA2</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#D1D1D1</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+
+    <color name="nav_item_color">@color/green_700</color>
+    <color name="nav_item_selected">@color/green_800</color>
+
+    <color name="status_online">@color/green_500</color>
+    <color name="status_offline">@color/gray_400</color>
+    <color name="status_blocked">#EF5350</color>
+    <color name="status_warning">#FFB74D</color>
+
+    <color name="background_primary">@color/white</color>
+    <color name="background_secondary">@color/green_50</color>
+    <color name="background_card">@color/white</color>
+
+    <color name="surface">@color/white</color>
+    <color name="surface_variant">@color/green_50</color>
+
+    <color name="text_primary">@color/gray_900</color>
+    <color name="text_secondary">@color/gray_600</color>
+    <color name="text_hint">@color/gray_400</color>
+    <color name="text_on_primary">@color/white</color>
+    <color name="text_on_accent">@color/black</color>
+
+    <color name="outline">@color/gray_300</color>
+    <color name="outline_variant">@color/gray_200</color>
+
+    <color name="error">@color/status_blocked</color>
+    <color name="error_container">#FFEBEE</color>
+    <color name="success">@color/green_600</color>
+    <color name="success_container">@color/green_100</color>
+
+</resources>

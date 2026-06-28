@@ -195,6 +195,6 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## 👩‍💻 Author
 
-Created with ❤️ for caring parents.
-
-If you have any questions or suggestions — create an [Issue](https://github.com/KuiYL/ParentControlApp/issues) or contact me!
+Part of the **ParentControl** ecosystem:
+- 📱 [Android App](https://github.com/KuiYL/ParentControlApp) — parent's dashboard
+- 💻 [PC agent](https://github.com/KuiYL/ParentalControlAgent) — child's device monitor
